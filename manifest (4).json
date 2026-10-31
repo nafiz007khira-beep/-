@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "মাহফিল-শিডিউল",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "মাহফিল",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.mahfil.sehedule"
+}
